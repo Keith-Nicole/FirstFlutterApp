@@ -1,4 +1,4 @@
-# Welcome to my first Flutter App!
+Welcome to my first Flutter App!
 
 This repository was made in compliance for the Application Development activity, which tasked us to create a simple "Hello World" Flutter application. 
 
